@@ -171,7 +171,7 @@ int main()
 	system("Color E0"); 
     system("title todoapp @copyassignment");
     cout<<"\t\t\t***********************************************************************"<<endl;
-    ut<<"\t\t\t*                      WELCOME TO Your ToDo List                      *"<<endl;
+    cout<<"\t\t\t*                      WELCOME TO Your ToDo List                      *"<<endl;
 	  cout<<"\t\t\t***********************************************************************"<<endl<<endl<<endl<<endl;
     ifstream read;
     read.open("id.txt");
